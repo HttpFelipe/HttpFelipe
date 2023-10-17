@@ -2,14 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F757&background=FFFFFF00&width=435&lines=Seja%2C+bem+vindo+ao+meu+GITHUB!)](https://git.io/typing-svg)
  
-<strong><p>Meu nome é Felipe e sou programador Back-end!</strong>
+<strong><p>Meu nome é Felipe e sou programador Back-end</strong>
 <hr style="border: 1px solid black;">
-
-- Desde sempre, despertei um forte interesse pela área de tecnologia, motivado pela curiosidade de compreender o funcionamento dos sistemas, aplicativos e jogos que faziam parte do meu cotidiano. Iniciei meus estudos na área com Cybersecurity, explorando ferramentas como Metasploit, Nmap, Wireshark e outras voltadas para pentest e segurança. Nessa mesma época, adquiri conhecimentos no uso do sistema operacional Linux e Terminal. À medida que o tempo passou, meu fascínio pela área só cresceu, e atualmente estudo a área de desenvolvimento.
  
-- Como programador Back-end, tenho conhecimentos em C#, Node.js e PHP, com banco de dados SQL Server, MySQL e MongoDB. Tenho foco no desenvolvimento de Aplicações MVC, APIs e Cloud Computing com Microsoft Azure. Também tenho conhecimento em ferramentas como HTML5, CSS3, SASS, Bootstrap e React.
-Em 2023 ingressei no Instituto Presbiteriano Mackenzie no curso de Análise e Desenvolvimento de Sistemas.
-
+- Programador Back-end, atuação principalmente na plataforma .NET com C#. Atuação também em Node.js e PHP. Banco de dados SQL Server, MySQL e MongoDB. Tenho foco no desenvolvimento de Aplicações MVC, APIs e Cloud Computing com Microsoft Azure. Outras ferramentas: HTML5, CSS3, SASS, Bootstrap e React.
+- 
   <br>
 ## 📚 Github Status
 
