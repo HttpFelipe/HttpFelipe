@@ -5,7 +5,8 @@
 <strong><p>Meu nome é Felipe e sou programador Back-end</strong>
 <hr style="border: 1px solid black;">
  
-- Atuo como desenvolvedor de sistemas utilizando a plataforma .NET com C#. Atuação também em Node.js e PHP. Experiência em banco de dados SQL Server. Conhecimentos em bancos de dados MySQL e MongoDB. Tenho foco no desenvolvimento de Aplicações MVC, APIs e Cloud Computing com Microsoft Azure. Outras ferramentas: HTML5, CSS3, SASS, Bootstrap e React.
+- Atuo como desenvolvedor de sistemas utilizando a plataforma .NET com C#. Atuação também em Node.js e PHP. Experiência em banco de dados SQL Server. Conhecimentos em bancos de dados MySQL e MongoDB.
+- Tenho foco no desenvolvimento de Aplicações MVC, APIs e Cloud Computing com Microsoft Azure. Outras ferramentas: HTML5, CSS3, SASS, Bootstrap e React.
   <br>
 ## 📚 Github Status
 
